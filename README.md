@@ -1,14 +1,1 @@
-# Bot-Testing
- Testing First Bot
- 
- run terminal
-install 'npm i dotenv'
-
-create a .env files with token, client_Id and guild_Id variables
-client_Id is application ID of the bot
-guild_Id is ID of the server its on
-
-to test bot use these commands in this order:
-
-node deploy-commands.js
-node .
+This is a discord bot for managing a discord server for a college course. It allows the user to perform slash commands such as enrolling in a class, creating a chanel, creating a poll, assigning roles, and ending the semester.
